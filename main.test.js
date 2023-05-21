@@ -18,7 +18,7 @@ const { studentId, studentName, NetlifyDeployUrl } = require('./deployData.js');
 let windowJSDOM = null;
 
 beforeEach(async () => {
-  const { window } = await JSDOM.fromFile('./client/index.html', {
+  const { window } = await JSDOM.fromFile('./index.html', {
     runScripts: 'dangerously',
     resources: 'usable',
   });
