@@ -10,6 +10,6 @@ const studentName = 'Ramadhan Wahyu Sahputra'; // TODO: replace this
 
 const studentId = 'FE4799827'; // TODO: replace this
 
-const NetlifyDeployUrl = 'ruangperpusramadhanwahyu.netlify.app'; // TODO: replace this
+const NetlifyDeployUrl = 'newruangperpusramadhanwahyu.netlify.app'; // TODO: replace this
 
 module.exports = { studentName, studentId, NetlifyDeployUrl };
